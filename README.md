@@ -1,10 +1,12 @@
 # GraphicsCoursework3231
 studentID: 200960735
 
-UNITY VERSION: 2022.3.10f1
+#UNITY VERSION: 2022.3.10f1
 Built in Render Pipeline 
 
-SCENE TO LOAD: Planet
+#SCENE TO LOAD: Planet
+
+WATER MATERIAL MAY LOAD IN DARKER THAN USUAL ON FIRST SCENE LOAD, IF SO JUST RELOAD SCENE
 
 CONTROLS: WASD to move around, Mouse to look around, E to toggle rain
 
